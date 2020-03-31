@@ -1,0 +1,9 @@
+name: AisNight
+main: AisN\Main
+version: 1.0.0
+author: AisS2
+api: 3.0.0
+
+commands:
+ 야간투시:
+  description: 야간투시가 지급되는 명령어입니다.
